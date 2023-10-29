@@ -1,0 +1,16 @@
+.step-container {
+    display: flex ;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.field {
+    /* border: 1px solid black; */
+    width: 100px;
+
+}
+
+.button {
+    margin-right: 5px;
+}
